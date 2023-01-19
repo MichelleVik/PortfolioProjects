@@ -7,7 +7,7 @@ SQL, Tableau
 https://public.tableau.com/app/profile/michelle.vik.myrvold/viz/Covid2023/Dashboard1 
 
 
-### Possum Data Set\
+### Possum Data Set
 SQL, Tableau
 
 "The possum data frame consists of nine morphometric measurements on each of 104 mountain brushtail possums, trapped at seven sites from Southern Victoria to central Queensland."
