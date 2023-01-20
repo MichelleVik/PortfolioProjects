@@ -1,5 +1,14 @@
 # PortfolioProjects2
 
+### World Shark Attacks
+SQL, Tableau
+
+World 
+https://public.tableau.com/app/profile/michelle.vik.myrvold/viz/WorldSharkAttacks/Dashboard1
+
+US
+https://public.tableau.com/app/profile/michelle.vik.myrvold/viz/SharkAttacksInTheUs/Dashboard1
+
 
 ### Covid-19 data from 2023 with Dashboard in Tableau
 SQL, Tableau
