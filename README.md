@@ -1,4 +1,4 @@
-# PortfolioProjects2
+# PortfolioProjects
 
 ## World Shark Attacks
 #### SQL, Tableau
