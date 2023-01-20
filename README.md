@@ -1,7 +1,7 @@
 # PortfolioProjects2
 
 ## World Shark Attacks
-#### SQL, Tableau. 
+#### SQL, Tableau
 
 All of the data on this site comes from the Global Shark Attack File (GSAF), a spreadsheet of human/shark interactions compiled by the Shark Research Institute. 
 
